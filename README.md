@@ -240,11 +240,11 @@ Implemented from scratch in `phases/phase2_private_training.py` following the st
 ## Citation
 
 ```bibtex
-@article{sardar2025privacy,
+@article{sardar2026privacy,
   title={Privacy-Aware Adversarial Defense with Explainable AI for Adversarial Robustness in AI Models},
   author={Sardar, Bilal and Islam, Shareeful and Silvestri, Stefano and Papastergiou, Spyridon},
-  journal={Information and Software Technology},
-  year={2025}
+  journal={Journal of Reliable Intelligent Environments },
+  year={2026}
 }
 ```
 
